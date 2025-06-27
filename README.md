@@ -1,4 +1,4 @@
-# 📝 To-Do List App (MERN Stack)
+# 📝 To-Do List App 
 
 A full-stack To-Do List application built using the  (css, bootstrap, html, React). It allows users to add, edit, delete, and mark tasks as completed — all in a clean, responsive interface.
 
